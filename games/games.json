@@ -29,7 +29,7 @@
   {
     "id": 3,
     "title": "Whack-A-Droid",
-    "gameUrl": "https://pruthiviraj27.github.io/web_games/games/whack_a_droid.html",
+    "gameUrl": "https://pruthiviraj27.github.io/web_games/games/whack-a-droid.html",
     "iconResUrl": "https://pruthiviraj27.github.io/portfolio/assets/whack_a_droid/android-chrome-512x512.png",
     "enableBannerAd": true,
     "bannerAdOnTop": false,
