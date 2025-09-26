@@ -11,7 +11,7 @@
   {
     "id": 1,
     "title": "Jumble",
-    "url": "https://pruthiviraj27.github.io/web_games/games/jumble.html",
+    "gameUrl": "https://pruthiviraj27.github.io/web_games/games/jumble.html",
     "iconResUrl": "https://pruthiviraj27.github.io/portfolio/assets/jumble/android-chrome-512x512.png",
     "enableBannerAd": true,
     "bannerAdOnTop": false,
@@ -20,7 +20,7 @@
   {
     "id": 2,
     "title": "Pixel Python",
-    "url": "https://pruthiviraj27.github.io/web_games/games/pixel-python.html",
+    "gameUrl": "https://pruthiviraj27.github.io/web_games/games/pixel-python.html",
     "iconResUrl": "https://pruthiviraj27.github.io/portfolio/assets/pixel_python/android-chrome-512x512.png",
     "enableBannerAd": true,
     "bannerAdOnTop": false,
@@ -29,7 +29,7 @@
   {
     "id": 3,
     "title": "Whack-A-Droid",
-    "url": "https://pruthiviraj27.github.io/web_games/games/whack_a_droid.html",
+    "gameUrl": "https://pruthiviraj27.github.io/web_games/games/whack_a_droid.html",
     "iconResUrl": "https://pruthiviraj27.github.io/portfolio/assets/whack_a_droid/android-chrome-512x512.png",
     "enableBannerAd": true,
     "bannerAdOnTop": false,
