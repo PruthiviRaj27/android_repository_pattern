@@ -3,7 +3,7 @@
     "id": 0,
     "title": "Android Wars",
     "url": "https://example.com/android-wars",
-    "iconResUrl": "https://pruthiviraj27.github.io/portfolio/assets/jumble/android-chrome-512x512.png",
+    "iconResUrl": "https://pruthiviraj27.github.io/portfolio/assets/android_wars/android-chrome-512x512.png",
     "enableBannerAd": true,
     "bannerAdOnTop": false
   },
@@ -11,7 +11,7 @@
     "id": 1,
     "title": "Space Invaders",
     "url": "https://example.com/space-invaders",
-    "iconResUrl": "https://pruthiviraj27.github.io/portfolio/assets/android_wars/android-chrome-512x512.png",
+    "iconResUrl": "https://pruthiviraj27.github.io/portfolio/assets/jumble/android-chrome-512x512.png",
     "enableBannerAd": false,
     "bannerAdOnTop": false
   },
@@ -70,13 +70,5 @@
     "iconResUrl": "https://pruthiviraj27.github.io/portfolio/assets/android_wars/android-chrome-512x512.png",
     "enableBannerAd": false,
     "bannerAdOnTop": false
-  },
-  {
-    "id": 9,
-    "title": "2048",
-    "url": "https://example.com/2048",
-    "iconResUrl": "https://pruthiviraj27.github.io/portfolio/assets/jumble/android-chrome-512x512.png",
-    "enableBannerAd": false,
-    "bannerAdOnTop": true
   }
 ]
