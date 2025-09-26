@@ -2,73 +2,37 @@
   {
     "id": 0,
     "title": "Android Wars",
-    "url": "https://example.com/android-wars",
+    "gameUrl": "https://pruthiviraj27.github.io/web_games/games/android-wars-webview.html",
     "iconResUrl": "https://pruthiviraj27.github.io/portfolio/assets/android_wars/android-chrome-512x512.png",
     "enableBannerAd": true,
-    "bannerAdOnTop": false
+    "bannerAdOnTop": true,
+    "enableRewardedAd": true
   },
   {
     "id": 1,
-    "title": "Space Invaders",
-    "url": "https://example.com/space-invaders",
+    "title": "Jumble",
+    "url": "https://pruthiviraj27.github.io/web_games/games/jumble.html",
     "iconResUrl": "https://pruthiviraj27.github.io/portfolio/assets/jumble/android-chrome-512x512.png",
-    "enableBannerAd": false,
-    "bannerAdOnTop": false
+    "enableBannerAd": true,
+    "bannerAdOnTop": false,
+    "enableRewardedAd": true
   },
   {
     "id": 2,
-    "title": "Maze Runner",
-    "url": "https://example.com/maze-runner",
+    "title": "Pixel Python",
+    "url": "https://pruthiviraj27.github.io/web_games/games/pixel-python.html",
     "iconResUrl": "https://pruthiviraj27.github.io/portfolio/assets/pixel_python/android-chrome-512x512.png",
     "enableBannerAd": true,
-    "bannerAdOnTop": true
+    "bannerAdOnTop": false,
+    "enableRewardedAd": true
   },
   {
     "id": 3,
-    "title": "Puzzle Master",
-    "url": "https://example.com/puzzle-master",
-    "iconResUrl": "https://pruthiviraj27.github.io/portfolio/assets/whack_a_droid/android-chrome-512x512.png",
-    "enableBannerAd": false,
-    "bannerAdOnTop": false
-  },
-  {
-    "id": 4,
-    "title": "Tic Tac Toe",
-    "url": "https://example.com/tic-tac-toe",
-    "iconResUrl": "https://pruthiviraj27.github.io/portfolio/assets/android_wars/android-chrome-512x512.png",
-    "enableBannerAd": false,
-    "bannerAdOnTop": true
-  },
-  {
-    "id": 5,
-    "title": "Memory Flip",
-    "url": "https://example.com/memory-flip",
-    "iconResUrl": "https://pruthiviraj27.github.io/portfolio/assets/jumble/android-chrome-512x512.png",
-    "enableBannerAd": true,
-    "bannerAdOnTop": false
-  },
-  {
-    "id": 6,
-    "title": "Sudoku",
-    "url": "https://example.com/sudoku",
-    "iconResUrl": "https://pruthiviraj27.github.io/portfolio/assets/pixel_python/android-chrome-512x512.png",
-    "enableBannerAd": false,
-    "bannerAdOnTop": false
-  },
-  {
-    "id": 7,
-    "title": "Snake Classic",
-    "url": "https://example.com/snake",
+    "title": "Whack-A-Droid",
+    "url": "https://pruthiviraj27.github.io/web_games/games/whack_a_droid.html",
     "iconResUrl": "https://pruthiviraj27.github.io/portfolio/assets/whack_a_droid/android-chrome-512x512.png",
     "enableBannerAd": true,
-    "bannerAdOnTop": true
-  },
-  {
-    "id": 8,
-    "title": "Breakout",
-    "url": "https://example.com/breakout",
-    "iconResUrl": "https://pruthiviraj27.github.io/portfolio/assets/android_wars/android-chrome-512x512.png",
-    "enableBannerAd": false,
-    "bannerAdOnTop": false
+    "bannerAdOnTop": false,
+    "enableRewardedAd": true
   }
 ]
