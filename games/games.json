@@ -6,7 +6,8 @@
     "gamePosterUrl": "https://pruthiviraj27.github.io/web_games/games/assets/android-wars/android-chrome-512x512.png",
     "enableBannerAd": true,
     "bannerAdOnTop": true,
-    "enableRewardedAd": true
+    "enableRewardedAd": true,
+    "enableInterstitialAd": false
   },
   {
     "id": 1,
@@ -15,7 +16,8 @@
     "gamePosterUrl": "https://pruthiviraj27.github.io/web_games/games/assets/jumble/android-chrome-512x512.png",
     "enableBannerAd": true,
     "bannerAdOnTop": false,
-    "enableRewardedAd": true
+    "enableRewardedAd": true,
+    "enableInterstitialAd": false
   },
   {
     "id": 2,
@@ -24,7 +26,8 @@
     "gamePosterUrl": "https://pruthiviraj27.github.io/web_games/games/assets/pixel-python/android-chrome-512x512.png",
     "enableBannerAd": true,
     "bannerAdOnTop": false,
-    "enableRewardedAd": true
+    "enableRewardedAd": true,
+    "enableInterstitialAd": false
   },
   {
     "id": 3,
@@ -33,6 +36,7 @@
     "gamePosterUrl": "https://pruthiviraj27.github.io/web_games/games/assets/whack-a-droid/android-chrome-512x512.png",
     "enableBannerAd": true,
     "bannerAdOnTop": false,
-    "enableRewardedAd": true
+    "enableRewardedAd": true,
+    "enableInterstitialAd": false
   }
 ]
