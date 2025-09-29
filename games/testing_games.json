@@ -38,5 +38,15 @@
     "bannerAdOnTop": false,
     "enableRewardedAd": true,
     "enableInterstitialAd": false
+  },
+  {
+    "id": 4,
+    "title": "2048",
+    "gameUrl": "https://pruthiviraj27.github.io/web_games/games/2048.html",
+    "gamePosterUrl": "https://pruthiviraj27.github.io/web_games/games/assets/2048/android-chrome-512x512.png",
+    "enableBannerAd": true,
+    "bannerAdOnTop": false,
+    "enableRewardedAd": true,
+    "enableInterstitialAd": false
   }
 ]
