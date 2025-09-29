@@ -46,7 +46,7 @@
     "gamePosterUrl": "https://pruthiviraj27.github.io/web_games/games/assets/2048/android-chrome-512x512.png",
     "enableBannerAd": true,
     "bannerAdOnTop": false,
-    "enableRewardedAd": true,
-    "enableInterstitialAd": false
+    "enableRewardedAd": false,
+    "enableInterstitialAd": true
   }
 ]
