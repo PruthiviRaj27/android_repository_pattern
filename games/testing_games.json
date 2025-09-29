@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "title": "Android Wars",
+    "gameUrl": "https://pruthiviraj27.github.io/web_games/games/android-wars.html",
+    "gamePosterUrl": "https://pruthiviraj27.github.io/web_games/games/assets/android-wars/android-chrome-512x512.png",
+    "enableBannerAd": true,
+    "bannerAdOnTop": true,
+    "enableRewardedAd": true,
+    "enableInterstitialAd": false
+  },
+  {
+    "id": 1,
+    "title": "Jumble",
+    "gameUrl": "https://pruthiviraj27.github.io/web_games/games/jumble.html",
+    "gamePosterUrl": "https://pruthiviraj27.github.io/web_games/games/assets/jumble/android-chrome-512x512.png",
+    "enableBannerAd": true,
+    "bannerAdOnTop": false,
+    "enableRewardedAd": true,
+    "enableInterstitialAd": false
+  },
+  {
+    "id": 2,
+    "title": "Pixel Python",
+    "gameUrl": "https://pruthiviraj27.github.io/web_games/games/pixel-python.html",
+    "gamePosterUrl": "https://pruthiviraj27.github.io/web_games/games/assets/pixel-python/android-chrome-512x512.png",
+    "enableBannerAd": true,
+    "bannerAdOnTop": false,
+    "enableRewardedAd": true,
+    "enableInterstitialAd": false
+  },
+  {
+    "id": 3,
+    "title": "Whack-A-Droid",
+    "gameUrl": "https://pruthiviraj27.github.io/web_games/games/whack-a-droid.html",
+    "gamePosterUrl": "https://pruthiviraj27.github.io/web_games/games/assets/whack-a-droid/android-chrome-512x512.png",
+    "enableBannerAd": true,
+    "bannerAdOnTop": false,
+    "enableRewardedAd": true,
+    "enableInterstitialAd": false
+  }
+]
